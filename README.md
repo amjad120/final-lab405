@@ -4,27 +4,28 @@
 ## Introduction
 This lab helps the user save their favorite websites in one place
 ## Languages:
-Front-end: React
+Front-end: React.
 
-Back-end: PHP, Marina DB
+Back-end: PHP, Marina DB.
 
 ## Features:
 
 ### Add Bookmark:
 
 Save the new bookmarks by entering a URL and title.
-Validate inputs to check fields are filled before sending.
+
+
 ### View Bookmarks:
 
 Shows a list of saved bookmarks, each with a clickable title and management options.
 ### Update Bookmark:
 
 Allows users to edit the URL and title of existing bookmarks.
-Changes update dynamically on the back-end and front-end.
+
 ### Delete Bookmark:
 
 Allows users to delete bookmarks.
-Deletes from a database and then updates the display.
+
 
 ## Add a bookmark:
 ### Enter new Url & title:
